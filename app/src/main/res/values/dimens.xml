@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_edit_text">220dp</dimen>
+    <dimen name="width_edit_text2">100dp</dimen>
+    <dimen name="width_edit_text3">200dp</dimen>
+    <dimen name="height_edit_text">50dp</dimen>
+    <dimen name="text_size_edit_text">15sp</dimen>
+    <dimen name="text_size_title">22sp</dimen>
+    <dimen name="margin_top_title">40dp</dimen>
+    <dimen name="margin_start_edit_text">30dp</dimen>
+    <dimen name="margin_start_edit_text2">10dp</dimen>
+</resources>

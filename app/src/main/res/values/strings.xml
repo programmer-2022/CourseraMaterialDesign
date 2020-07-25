@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Coursera - Cesar Martinez</string>
+    <string name="txt_name">Full Name</string>
+    <string name="txt_date">Date of Birth</string>
+    <string name="txt_phone">Phone</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_description">Description</string>
+    <string name="registration_of_personal_data_title">Registration of Personal Data</string>
+    <string name="confirm_contact_details_title">Confirm Contact Details</string>
+    <string name="hyphen">-</string>
+
+    <string name="continue_button_title">Continue</string>
+    <string name="new_button_title">New</string>
+    <string name="edit_button_title">Edit</string>
+
+    <!-- KEYS MAIN ACTIVITY - INTENT -->
+    <string name="key_name">name</string>
+    <string name="key_date">date</string>
+    <string name="key_phone">phone</string>
+    <string name="key_email">email</string>
+    <string name="key_description">description</string>
+    <string name="key_contact">key_contact</string>
+
+    <!-- MESSAGES ERROR -->
+    <string name="error_msg_empty">Error, there cannot be empty fields</string>
+
+    <!-- VARIABLES DATEPICKER -->
+    <string name="date_picker_title">SELECT A DATE</string>
+    <string name="tag_date">DatePicker</string>
+
+</resources>
